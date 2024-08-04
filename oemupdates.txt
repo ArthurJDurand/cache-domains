@@ -1,3 +1,5 @@
+drivers.amd.com
+*.download.nvidia.com
 global-download.acer.com
 dlcdnets.asus.com
 dl.dell.com
